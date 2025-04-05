@@ -20,6 +20,7 @@ int main()
 float calcFinal(int horas, int velocidade){
 	return ((horas * velocidade) / CONSUMO);
 }
+
 void printResults(double resultado){
 	printf("%.3lf", resultado);
 }
