@@ -11,4 +11,4 @@ Repositório destinado ao armazenamento e organização de atividades, trabalhos
 
 ## 📁 Estrutura do Repositório
 
-- Programação para a Resolução de Problemas
+- Programação para a Resolução de Problemas - 1 Semestre
